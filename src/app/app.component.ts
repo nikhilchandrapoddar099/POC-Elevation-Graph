@@ -78,7 +78,7 @@ export class AppComponent implements OnInit {
    
     this.isShow=true
     
-    this.avg_elv=this.avg_elv/this.filterData.length
+    this.avg_elv=this.avg_elv/filterdata.length
     // console.log('datasss',filterdata)
     this.myChart = new Chart("myChart", {
       type: 'line',
