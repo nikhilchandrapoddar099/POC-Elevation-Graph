@@ -1,0 +1,31 @@
+
+  mat-card{
+    width: 780px;
+    height: 520px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto; 
+    margin-top: 10px; 
+    vertical-align:middle;
+    background-color: rgb(236, 234, 234);
+}
+.box{
+    width: 780px;
+    height: 520px;
+   
+    margin-top: 10px; 
+    
+}
+#container {
+    height:200px;
+    width: 240px;
+    align-content: center; /* Can be changed in the live sample */
+    background-color: #8c8c8c;
+  }
+
+  
+  #item2 {
+    background-color: #a0c8ff;
+    min-height: 50px;
+  }
+  
